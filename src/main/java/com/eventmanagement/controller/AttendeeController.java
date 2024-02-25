@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import com.eventmanagement.pojos.*;
 import com.eventmanagement.service.*;
 // in
-//i
+// irr
 @RestController
 @RequestMapping("/attendee")
 public class AttendeeController {
